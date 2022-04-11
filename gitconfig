@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = laurenztophof@gmail.com
+	name = Laurenz Tophof
